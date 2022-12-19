@@ -1,0 +1,40 @@
+[
+    {
+        "user_img":"/assets/images/mustafa.jpg",
+        "user_name":"Mustafa",
+        "user_job":"CEO Of Marketing",
+        "user_comment":"Working with Sabuhi was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach."
+    },
+
+    {
+        "user_img":"/assets/images/elvin.jpg",
+        "user_name":"Elvin",
+        "user_job":"Sales Manager",
+        "user_comment":"We have the fortune of working with Sabuhi on a very regular basis. Every single project is done in a timely fashion and is delivered exactly as is outlined."
+    },
+
+    {
+        "user_img":"/assets/images/namiq.jpg",
+        "user_name":"Namiq",
+        "user_job":"Sales Manager",
+        "user_comment":"Not only was Sabuhi's work on time and to spec, he paid attention to improve the aesthetics of the site as well as the functionality. Throughout the entire process he is responsive, and willing to work through issues as they arise."
+    },
+    {
+        "user_img":"/assets/images/umud.jpg",
+        "user_name":"Umud",
+        "user_job":"Web Developer",
+        "user_comment":"His development skills and expertise make him an invaluable part of our process. We absolutely offer our highest possible recommendation."
+    },
+    {
+        "user_img":"/assets/images/togrul.jpg",
+        "user_name":"Togrul",
+        "user_job":"Director of Services",
+        "user_comment":"I have worked with Sabuhi on two complex projects and in both cases, the work was done on time, on budget, and with a high degree of professionalism."
+    },
+    {
+        "user_img":"/assets/images/nicat.jpg",
+        "user_name":"Nicat",
+        "user_job":"Creative Lead",
+        "user_comment":"It has been a real pleasure working with him. He has been very professional and very clear in all communications, which I appreciate."
+    }
+]
