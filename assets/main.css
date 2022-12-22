@@ -83,7 +83,7 @@ body{
         padding: 22px 5%;
     }
 }
-@media (max-width:960px){
+@media (max-width:1060px){
     #header .fa-bars{
         display: flex;
         font-size: 24px;
@@ -376,8 +376,9 @@ span.text {
     /* border-top: 5px solid transparent; */
     transition: all .4s ease;
     cursor: pointer;
-    margin-left: 20px;
+    /* margin-left: 20px; */
     border-radius: .5rem;
+    width: 30%;
 }
 
 #services .services-content .box h3{
@@ -413,6 +414,7 @@ span.text {
     }
     #services .services-content .box{
         margin-bottom: 20px;
+        width: 100%;
     }
 }
 #testimonials{
@@ -493,11 +495,6 @@ span.text {
     padding: 160px 16% 90px;
     display: flex;
     justify-content: space-between;
-
-    /* display: grid;
-    grid-template-columns: repeat(2,1fr); */
-    /* align-items: center; */
-    /* gap: 3rem; */
 }
 #contact .contact-text{
     padding-right: 60px;
@@ -589,7 +586,7 @@ span.text {
         padding: 22px 5%;
     }
 }
-@media(max-width:908px){
+@media(max-width:938px){
     #contact{
         flex-direction: column;
     }
@@ -632,51 +629,3 @@ span.text {
     padding: 10px;
     border-radius: .5rem;
 }
-
-/* @media (max-width:1325px){
-    #header{
-        padding:16px 3% ;
-    }
-    #header.sticky{
-        padding: 8px 3%;
-    }
-    section{
-        padding: 130px 3% 60px;
-    }
-}
-@media (max-width:970px){
-    :root{
-        --h1-font:4.2rem;
-        --h2-font:2.9rem;
-        --p-font:1rem
-    }
-    section{
-        padding: 70px 3% 60px;
-    }
-
-}
-@media (max-width:830px){
-    #header .fa-bars{
-        display: block;
-    }
-    .nav-links ul{
-        position: absolute;
-        top: 100%;
-        right: 0;
-        left: 0;
-        display: flex;
-        flex-direction: column;
-        background-color: #12141c;
-        text-align: left;
-        transition: all .4s ease;
-    }
-    .nav-links ul a{
-        display: block;
-        padding: 1rem;
-        margin: 1rem;
-    }
-    :root{
-        --h1-font:3.7rem;
-        --h2-font:2.7rem;
-    }
-} */

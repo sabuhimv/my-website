@@ -79,8 +79,6 @@ async function butunCommentleriGetir() {
         console.log(error)
     }
 }
-// TESTIMONIALS END
-
 
 function myFunction(x) {
     if (x.matches) {
